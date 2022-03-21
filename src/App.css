@@ -1,0 +1,22 @@
+.body {
+  text-align: center;
+  background-color: black;
+}
+
+.mainCal{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row{
+  display: flex;
+  /* align-items: center; */
+}
+
+.calc{
+  background-color: rgb(243, 225, 225);
+  width: 400px;
+  border-radius: 20px;
+
+}

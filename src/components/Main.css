@@ -1,0 +1,45 @@
+.body {
+    text-align: center;
+    background-color: black;
+  }
+  
+  .mainCal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .row{
+    display: flex;
+    /* align-items: center; */
+  }
+  
+  .calc{
+    background-color: black;
+    width: 400px;
+    border-radius: 20px;
+  
+  }
+
+  .btn{
+    display: flex;
+    margin-top: 50px;
+    
+  }
+
+  .buttons{
+    padding: 10px;
+   
+  }
+
+  .buttons button{
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 600px;
+    background-color:  #555555;
+    padding: 15px 32px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+  }
